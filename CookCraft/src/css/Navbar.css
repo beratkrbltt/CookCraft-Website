@@ -1,0 +1,12 @@
+.menu-container {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.category-buttons {
+    display: flex;
+    gap: 20px;
+}
